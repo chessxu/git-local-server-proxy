@@ -45,6 +45,7 @@ cd DOAToolkit
 git init --bare
 ```
 执行完毕，得到如下目录结构：
+
 ![Alt text](image.png)
 
 4. 本地中转仓库绑定 GitHub
